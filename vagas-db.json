@@ -1,0 +1,32 @@
+{
+  "vagas": [
+    {
+      "id": 1,
+      "nome": "Desenvolvedor Frond End",
+      "foto": "foto1.jpg",
+      "descricao": "Trabalhar com Angular",
+      "salario": "5000"
+    },
+    {
+      "id": 2,
+      "nome": "Desenvolvedor BackEnd",
+      "foto": "foto2.jpg",
+      "descricao": "Trabalhar com Spring Boot",
+      "salario": "7000"
+    },
+    {
+      "id": 3,
+      "nome": "Desenvolvedor Full",
+      "foto": "foto3.jpg",
+      "descricao": "Trabalhar com Angular e Spring Boot",
+      "salario": "10000"
+    },
+    {
+      "id": "4",
+      "nome": "Vaga teste",
+      "foto": "foto1.jpg",
+      "descricao": "Descricao teste",
+      "salario": "3000"
+    }
+  ]
+}
